@@ -1,0 +1,6 @@
+.actionScriptProperties
+.DS_Store
+.project
+/.settings
+*.bin
+*.xml
